@@ -1,10 +1,10 @@
 # MathModel-Final-Homework
-我的数模大作业，基于智能算法的TSP算法设计与分析
+My mathematical modeling final project: Design and analysis of TSP algorithms based on intelligent heuristics
 
-Currently Included:
+Currently included:
 
-1.遗传算法(GA)
+- Genetic Algorithm (GA)
 
-2.模拟退火(SA)
+- Simulated Annealing (SA)
 
-3.蚁群算法(ACA)
+- Ant Colony Algorithm (ACA)
